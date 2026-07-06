@@ -11,10 +11,10 @@ export default function VendorsPage() {
     <main>
       <Header />
       <Hero />
-      <CategoryCards />
-      <DesignConcepts />
       <VendorScorecard />
       <SampleInstructions />
+      <CategoryCards />
+      <DesignConcepts />
       <VendorForm />
       <footer className="border-t border-white/10 py-8">
         <div className="section-shell flex flex-col gap-2 text-sm text-zinc-500 sm:flex-row sm:items-center sm:justify-between">
